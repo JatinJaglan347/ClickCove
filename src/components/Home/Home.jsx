@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth';
 import {useFirebase} from '../../context/Firebase'
 import Login from '../Login/Login';
-// import { getDatabase, ref, onValue } from 'firebase/database';
 import { get,getDatabase ,ref } from 'firebase/database';
+import { Navbar } from '../Navbar/Navbar';
 
 
 
@@ -61,8 +61,9 @@ function Home() {
 
     return (
         <>
+            <Navbar/>
             Home
-            <h1>Hello {userData ? userData.name : 'User'}</h1>
+            {/* <h1>Hello {userData ? userData.name : 'User'}</h1>
             <h2>Email: {user.email}</h2>
             <button
                 type="button"
@@ -70,7 +71,7 @@ function Home() {
                 className="inline-flex w-full items-center justify-center rounded-md bg-black px-3.5 py-2.5 font-semibold leading-7 text-white hover:bg-black/80"
             >
                 Logout
-            </button>
+            </button> */}
         </>
     );
 }

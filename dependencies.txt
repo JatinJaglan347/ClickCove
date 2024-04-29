@@ -1,0 +1,8 @@
+npm i framer-motion clsx tailwind-merge
+npm install firebase
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i react-router-dom
+npm i react-icons
+npm i lucide-react
+npm i tw-elements-react

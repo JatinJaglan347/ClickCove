@@ -51,7 +51,6 @@ const Signup = () => {
         setConfirmPassword("");
       }
       else {  
-        // Error or email already in use
         setSignupMessage(signUpResult.message);
       }
     } else {
