@@ -9,13 +9,13 @@ Welcome to Click Cove, an e-commerce website that integrates end-to-end AI funct
 - **Tailwind CSS:** Employs Tailwind CSS for rapid and customizable styling.
 - **Google Firebase:** Handles backend services and authentication using Google Firebase.
 
+## Host Link
+
+The project is hosted at [https://click-cove.vercel.app/](https://click-cove.vercel.app/).
+
 ## Contributing
 
 We welcome contributions to enhance Click Cove. Please fork the repository and submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -25,3 +25,5 @@ We acknowledge the following technologies and resources that have contributed to
 - Vite (https://vitejs.dev/)
 - Tailwind CSS (https://tailwindcss.com/)
 - Google Firebase (https://firebase.google.com/)
+
+## Host link 
