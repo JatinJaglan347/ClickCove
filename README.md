@@ -25,5 +25,3 @@ We acknowledge the following technologies and resources that have contributed to
 - Vite (https://vitejs.dev/)
 - Tailwind CSS (https://tailwindcss.com/)
 - Google Firebase (https://firebase.google.com/)
-
-## Host link 
