@@ -34,7 +34,7 @@ function Hero() {
       </div> */}
       <div className="text-center">
         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-        Discover. Click. Covet.
+        Discover. Click. Cove.
 
         </h1>
         <p className="mt-6 text-lg leading-8 text-white">
@@ -43,13 +43,13 @@ function Hero() {
         <div className="mt-10 flex items-center justify-center gap-x-2">
           <button
             type="button"
-            className="rounded-md bg-lime-700 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+            className="rounded-md bg-[#1BBFE9] px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
           >
-            View Docs
+            What's New
           </button>
           <button
             type="button"
-            className="rounded-md border bg-lime-700 border-black px-3 py-2 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+            className="rounded-md border bg-[#1BBFE9] border-black px-3 py-2 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
           >
             Get Started
           </button>

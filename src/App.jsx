@@ -16,6 +16,7 @@ import Electronics from './components/categories/Electronics.jsx';
 import Jewelery from './components/categories/Jewelery.jsx';
 import About from './components/Home/About.jsx'
 import { Products } from './components/products/Products.jsx';
+import { Contactus } from './components/Contactus/Contactus.jsx';
 
 function App() {
   const router = createBrowserRouter([
@@ -39,6 +40,10 @@ function App() {
     {
       path:"/Checkout",
       element:<Shippingadd/>
+    },
+    {
+      path:"/Contact",
+      element:<Contactus/>
     },
   ])
   return (
