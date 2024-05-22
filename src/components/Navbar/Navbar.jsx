@@ -8,6 +8,7 @@ import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth';
 import { getDatabase, ref, get, remove } from 'firebase/database';
 import Login from '../Login/Login';
 import { IoMdCart } from "react-icons/io";
+import { PiSmileySad } from "react-icons/pi";
 
 const auth = getAuth();
 const menuItems = [
@@ -191,8 +192,9 @@ export function Navbar() {
                 <div className="absolute right-0 mt-2 w-96 bg-white rounded-md shadow-lg z-10">
                   <div className="py-1">
                     {cartData.length === 0 ? (
-                      <div className="px-4 py-2 text-gray-800">
-                        Your cart is empty.
+                      <div className="px-4 py-2 text-gray-800 flex flex-col items-center justify-center text-center gap-4">
+                       <div className='text-6xl text-[#595959]'><PiSmileySad /></div>
+                       <p>Your cart is empty.</p>
                       </div>
                     ) : (
                       cartData.map((item, index) => (
