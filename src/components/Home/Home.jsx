@@ -5,7 +5,16 @@ import {useFirebase} from '../../context/Firebase'
 import Login from '../Login/Login';
 import { get,getDatabase ,ref } from 'firebase/database';
 import { Navbar } from '../Navbar/Navbar';
-
+import Shippingadd from '../Shippingadd/Shippingadd.jsx';
+import Hero from '../Home/Hero.jsx';
+import MainGrid from '../Home/MainGrid.jsx';
+import MensClothing from '../categories/MensClothing.jsx';
+import WomensClothing from '../categories/WomensClothing.jsx';
+import Electronics from '../categories/Electronics.jsx';
+import Jewelery from '../categories/Jewelery.jsx';
+import { FooterFour } from '../Footer/Footer.jsx';
+// import About from './components/Home/About.jsx'
+// import { Products } from '../products/Products.jsx';
 
 
 const auth = getAuth();
@@ -23,7 +32,8 @@ function Home() {
                 setUser(null);
             }
         });
-    }, []);
+        console.log("User state:", user);
+    }, [user]);
 
     // const getData = async (uid) => {
     //     const db = getDatabase();
@@ -62,7 +72,14 @@ function Home() {
     return (
         <>
             <Navbar/>
-            Home
+            <Hero/>
+            <MainGrid/>
+            <div id="men's clothing"><MensClothing /></div>
+            <div id="women's clothing"> <WomensClothing /> </div>
+            <div id="electronics"> <Electronics /></div>
+            <div id="jewelery"><Jewelery /> </div>
+            {/* <About/> */}
+            {/* <Products/> */}
             {/* <h1>Hello {userData ? userData.name : 'User'}</h1>
             <h2>Email: {user.email}</h2>
             <button
@@ -72,6 +89,7 @@ function Home() {
             >
                 Logout
             </button> */}
+            <FooterFour/>
         </>
     );
 }
