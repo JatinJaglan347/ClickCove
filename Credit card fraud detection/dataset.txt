@@ -1,0 +1,199 @@
+Product_ID,Category,Brand,Price,Discount,Rating,Reviews,Shipping_Cost,Days_on_Site,Sales_Forecast
+1,Electronics,Samsung,799,0.1,4.5,1200,15,90,1500
+2,Home & Kitchen,Philips,49,0.05,4.2,600,10,60,800
+3,Apparel,Nike,129,0.2,4.7,1500,12,45,2000
+4,Books,Random House,15,0.15,4.1,300,5,30,300
+5,Electronics,Apple,1299,0.05,4.8,2000,20,120,2500
+6,Home & Kitchen,KitchenAid,399,0.1,4.6,800,25,90,1200
+7,Apparel,Adidas,79,0.1,4.4,1000,8,60,1000
+8,Books,Penguin,10,0.2,4.0,500,3,30,200
+9,Electronics,Sony,499,0.05,4.3,900,18,90,1300
+10,Home & Kitchen,Cuisinart,199,0.1,4.7,700,20,60,900
+11,Apparel,Levi's,59,0.05,4.5,800,10,45,700
+12,Books,HarperCollins,20,0.15,4.2,400,6,30,150
+13,Electronics,Microsoft,899,0.1,4.6,1100,15,90,1800
+14,Home & Kitchen,Dyson,299,0.05,4.8,1500,30,120,1700
+15,Apparel,Under Armour,99,0.2,4.4,1200,10,60,1100
+16,Books,Simon & Schuster,18,0.1,4.3,600,4,30,250
+17,Electronics,LG,599,0.05,4.7,1400,25,90,1600
+18,Home & Kitchen,Black & Decker,149,0.1,4.5,1000,15,60,950
+19,Apparel,Puma,69,0.05,4.6,900,12,45,800
+20,Books,Macmillan,25,0.2,4.1,300,8,30,100
+21,Electronics,Google,899,0.1,4.7,1800,20,90,1700
+22,Home & Kitchen,Hamilton Beach,79,0.05,4.3,700,10,60,800
+23,Apparel,H&M,39,0.2,4.0,1200,8,45,600
+24,Books,Hachette,12,0.1,4.6,500,4,30,180
+25,Electronics,Canon,599,0.05,4.5,1000,15,90,1200
+26,Home & Kitchen,Oster,149,0.1,4.4,900,12,60,1000
+27,Apparel,Gap,49,0.05,4.2,600,10,45,500
+28,Books,Random Publisher,15,0.2,4.1,200,3,30,80
+29,Electronics,Xiaomi,299,0.1,4.8,1500,25,90,1400
+30,Home & Kitchen,Ninja,199,0.05,4.6,1000,20,60,1100
+31,Apparel,Forever 21,29,0.1,4.3,800,8,45,400
+32,Books,Scholastic,8,0.15,4.5,400,2,30,70
+33,Electronics,HP,699,0.05,4.4,1300,18,90,1500
+34,Home & Kitchen,Instant Pot,129,0.1,4.7,1100,15,60,1300
+35,Apparel,Zara,69,0.05,4.6,900,12,45,700
+36,Books,Bloomsbury,20,0.2,4.2,300,6,30,120
+37,Electronics,Bose,299,0.05,4.8,2000,30,90,2000
+38,Home & Kitchen,Keurig,129,0.1,4.6,1200,18,60,1500
+39,Apparel,Uniqlo,39,0.05,4.4,1000,10,45,800
+40,Books,Houghton Mifflin,18,0.1,4.3,600,5,30,200
+41,Electronics,Fitbit,149,0.1,4.2,900,10,90,1000
+42,Home & Kitchen,Breville,299,0.05,4.7,1500,20,60,1600
+43,Apparel,Old Navy,29,0.1,4.5,800,8,45,600
+44,Books,Pearson,25,0.2,4.0,400,4,30,150
+45,Electronics,GoPro,399,0.05,4.6,1200,25,90,1400
+46,Home & Kitchen,Calphalon,199,0.1,4.4,1000,15,60,1100
+47,Apparel,Gap,59,0.05,4.3,700,10,45,800
+48,Books,Wiley,30,0.1,4.1,300,3,30,100
+49,Electronics,JBL,99,0.05,4.7,1400,18,90,1200
+50,Home & Kitchen,Crock-Pot,79,0.1,4.5,1100,12,60,1000
+51,Apparel,Forever 21,39,0.05,4.6,900,10,45,700
+52,Books,Random Publisher,12,0.15,4.2,200,2,30,50
+53,Electronics,Nintendo,299,0.05,4.8,2000,30,90,2000
+54,Home & Kitchen,All-Clad,399,0.1,4.6,1500,25,60,1700
+55,Apparel,Gap,49,0.05,4.4,1000,12,45,800
+56,Books,HarperCollins,20,0.2,4.1,600,5,30,180
+57,Electronics,Beats,199,0.05,4.7,1300,20,90,1500
+58,Home & Kitchen,KitchenAid,499,0.1,4.5,1200,18,60,1400
+59,Apparel,H&M,49,0.05,4.3,800,10,45,600
+60,Books,Penguin,15,0.1,4.0,400,4,30,120
+61,Electronics,Amazon Basics,99,0.05,4.8,1500,15,90,1300
+62,Home & Kitchen,Cuisinart,179,0.1,4.6,1100,15,60,1200
+63,Apparel,Nike,79,0.05,4.5,900,12,45,800
+64,Books,Oxford University Press,22,0.2,4.2,300,6,30,80
+65,Electronics,Sony,699,0.1,4.7,1600,25,90,1800
+66,Home & Kitchen,Dyson,499,0.05,4.6,1400,30,60,1600
+67,Apparel,Adidas,69,0.1,4.4,1000,12,45,900
+68,Books,Macmillan,18,0.05,4.3,500,4,30,150
+69,Electronics,Microsoft,799,0.1,4.7,1700,20,90,1800
+70,Home & Kitchen,Black & Decker,129,0.05,4.6,1200,18,60,1400
+71,Apparel,Under Armour,89,0.1,4.5,1100,15,45,1200
+72,Books,Scholastic,10,0.05,4.4,600,3,30,90
+73,Electronics,LG,599,0.1,4.8,2000,25,90,2000
+74,Home & Kitchen,Instant Pot,149,0.05,4.7,1500,20,60,1700
+75,Apparel,Puma,59,0.1,4.6,1000,12,45,800
+76,Books,Random House,20,0.2,4.5,400,5,30,120
+77,Electronics,Apple,1299,0.05,4.8,1800,30,90,2000
+78,Home & Kitchen,Philips,79,0.1,4.6,1300,18,60,1500
+79,Apparel,Levi's,69,0.05,4.4,900,12,45,800
+80,Books,HarperCollins,25,0.1,4.3,500,4,30,150
+81,Electronics,Samsung,799,0.05,4.7,1700,20,90,1900
+82,Home & Kitchen,KitchenAid,349,0.1,4.6,1400,15,60,1500
+83,Apparel,Gap,39,0.05,4.4,900,10,45,700
+84,Books,Random Publisher,12,0.15,4.1,300,3,30,100
+85,Electronics,Canon,599,0.05,4.8,1600,25,90,1800
+86,Home & Kitchen,Oster,129,0.1,4.5,1100,12,60,1200
+87,Apparel,Nike,79,0.05,4.3,800,10,45,600
+88,Books,Penguin,20,0.1,4.2,400,5,30,150
+89,Electronics,Logitech,99,0.05,4.7,1300,18,90,1500
+90,Home & Kitchen,Ninja,179,0.1,4.6,1200,15,60,1400
+91,Apparel,Forever 21,29,0.05,4.5,700,8,45,500
+92,Books,Scholastic,10,0.15,4.3,500,4,30,120
+93,Electronics,Microsoft,699,0.05,4.8,1800,20,90,2000
+94,Home & Kitchen,Hamilton Beach,99,0.1,4.7,1500,18,60,1700
+95,Apparel,Old Navy,39,0.05,4.4,1000,10,45,800
+96,Books,HarperCollins,25,0.1,4.3,600,5,30,180
+97,Electronics,Beats,199,0.05,4.8,1400,25,90,1600
+98,Home & Kitchen,Cuisinart,199,0.1,4.6,1300,20,60,1500
+99,Apparel,Zara,59,0.05,4.5,900,12,45,700
+100,Books,Houghton Mifflin,18,0.1,4.2,300,4,30,100
+101,Electronics,Fitbit,129,0.05,4.7,1500,15,90,1600
+102,Home & Kitchen,Breville,279,0.1,4.8,1600,20,60,1800
+103,Apparel,H&M,29,0.05,4.6,1000,10,45,700
+104,Books,Wiley,30,0.1,4.5,400,4,30,150
+105,Electronics,JBL,79,0.05,4.4,1200,18,90,1300
+106,Home & Kitchen,Crock-Pot,69,0.1,4.3,1100,12,60,1200
+107,Apparel,Forever 21,39,0.05,4.2,800,10,45,600
+108,Books,Random Publisher,12,0.1,4.1,200,3,30,80
+109,Electronics,Nintendo,299,0.05,4.6,1400,25,90,1600
+110,Home & Kitchen,All-Clad,499,0.1,4.7,1800,30,60,2000
+111,Apparel,Gap,49,0.05,4.5,1000,12,45,800
+112,Books,Wiley,25,0.1,4.4,500,5,30,150
+113,Electronics,HP,599,0.05,4.3,1300,20,90,1500
+114,Home & Kitchen,Instant Pot,149,0.1,4.2,1200,18,60,1400
+115,Apparel,Puma,59,0.05,4.1,900,10,45,700
+116,Books,Pearson,22,0.1,4.0,300,4,30,120
+117,Electronics,GoPro,399,0.05,4.6,1600,25,90,1800
+118,Home & Kitchen,Calphalon,199,0.1,4.5,1400,20,60,1600
+119,Apparel,Gap,39,0.05,4.4,1000,12,45,800
+120,Books,Wiley,28,0.1,4.3,500,6,30,150
+121,Electronics,Fitbit,149,0.05,4.2,900,10,90,1000
+122,Home & Kitchen,Breville,299,0.1,4.7,1500,15,60,1600
+123,Apparel,Old Navy,29,0.05,4.5,800,10,45,600
+124,Books,Random Publisher,12,0.15,4.0,300,3,30,100
+125,Electronics,Canon,599,0.05,4.8,1600,25,90,1800
+126,Home & Kitchen,Oster,129,0.1,4.5,1100,12,60,1200
+127,Apparel,Nike,79,0.05,4.3,800,10,45,600
+128,Books,Penguin,20,0.1,4.2,400,5,30,150
+129,Electronics,Logitech,99,0.05,4.7,1300,18,90,1500
+130,Home & Kitchen,Ninja,179,0.1,4.6,1200,15,60,1400
+131,Apparel,Forever 21,29,0.05,4.5,700,8,45,500
+132,Books,Scholastic,10,0.15,4.3,500,4,30,120
+133,Electronics,Microsoft,699,0.05,4.8,1800,20,90,2000
+134,Home & Kitchen,Hamilton Beach,99,0.1,4.7,1500,18,60,1700
+135,Apparel,Old Navy,39,0.05,4.4,1000,10,45,800
+137,Books,HarperCollins,25,0.1,4.3,600,5,30,180
+138,Electronics,Beats,199,0.05,4.8,1400,25,90,1600
+139,Home & Kitchen,Cuisinart,199,0.1,4.6,1300,20,60,1500
+140,Apparel,Zara,59,0.05,4.5,900,12,45,700
+141,Books,Houghton Mifflin,18,0.1,4.2,300,4,30,100
+142,Electronics,Fitbit,129,0.05,4.7,1500,15,90,1600
+143,Home & Kitchen,Breville,279,0.1,4.8,1600,20,60,1800
+144,Apparel,H&M,29,0.05,4.6,1000,10,45,700
+145,Books,Wiley,30,0.1,4.5,400,4,30,150
+146,Electronics,JBL,79,0.05,4.4,1200,18,90,1300
+147,Home & Kitchen,Crock-Pot,69,0.1,4.3,1100,12,60,1200
+148,Apparel,Forever 21,39,0.05,4.2,800,10,45,600
+149,Books,Random Publisher,12,0.1,4.1,200,3,30,80
+150,Electronics,Nintendo,299,0.05,4.6,1400,25,90,1600
+151,Home & Kitchen,All-Clad,499,0.1,4.7,1800,30,60,2000
+152,Apparel,Gap,49,0.05,4.5,1000,12,45,800
+153,Books,Wiley,25,0.1,4.4,500,5,30,150
+154,Electronics,HP,599,0.05,4.3,1300,20,90,1500
+155,Home & Kitchen,Instant Pot,149,0.1,4.2,1200,18,60,1400
+156,Apparel,Puma,59,0.05,4.1,900,10,45,700
+157,Books,Pearson,22,0.1,4.0,300,4,30,120
+158,Electronics,GoPro,399,0.05,4.6,1600,25,90,1800
+159,Home & Kitchen,Calphalon,199,0.1,4.5,1400,20,60,1600
+160,Apparel,Gap,39,0.05,4.4,1000,12,45,800
+161,Books,Wiley,28,0.1,4.3,500,6,30,150
+162,Electronics,Fitbit,149,0.05,4.2,900,10,90,1000
+163,Home & Kitchen,Breville,299,0.1,4.7,1500,15,60,1600
+164,Apparel,Old Navy,29,0.05,4.5,800,10,45,600
+165,Books,Random Publisher,12,0.15,4.0,300,3,30,100
+166,Electronics,Canon,599,0.05,4.8,1600,25,90,1800
+167,Home & Kitchen,Oster,129,0.1,4.5,1100,12,60,1200
+168,Apparel,Nike,79,0.05,4.3,800,10,45,600
+169,Books,Penguin,20,0.1,4.2,400,5,30,150
+170,Electronics,Logitech,99,0.05,4.7,1300,18,90,1500
+171,Home & Kitchen,Ninja,179,0.1,4.6,1200,15,60,1400
+172,Apparel,Forever 21,29,0.05,4.5,700,8,45,500
+173,Books,Scholastic,10,0.15,4.3,500,4,30,120
+174,Electronics,Microsoft,699,0.05,4.8,1800,20,90,2000
+175,Home & Kitchen,Hamilton Beach,99,0.1,4.7,1500,18,60,1700
+176,Apparel,Old Navy,39,0.05,4.4,1000,10,45,800
+177,Books,HarperCollins,25,0.1,4.3,600,5,30,180
+178,Electronics,Beats,199,0.05,4.8,1400,25,90,1600
+179,Home & Kitchen,Cuisinart,199,0.1,4.6,1300,20,60,1500
+180,Apparel,Zara,59,0.05,4.5,900,12,45,700
+181,Books,Houghton Mifflin,18,0.1,4.2,300,4,30,100
+182,Electronics,Fitbit,129,0.05,4.7,1500,15,90,1600
+183,Home & Kitchen,Breville,279,0.1,4.8,1600,20,60,1800
+184,Apparel,H&M,29,0.05,4.6,1000,10,45,700
+185,Books,Wiley,30,0.1,4.5,400,4,30,150
+186,Electronics,JBL,79,0.05,4.4,1200,18,90,1300
+187,Home & Kitchen,Crock-Pot,69,0.1,4.3,1100,12,60,1200
+188,Apparel,Forever 21,39,0.05,4.2,800,10,45,600
+189,Books,Random Publisher,12,0.1,4.1,200,3,30,80
+190,Electronics,Nintendo,299,0.05,4.6,1400,25,90,1600
+
+
+
+
+
+
+
+
+
