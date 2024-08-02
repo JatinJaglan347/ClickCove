@@ -1,10 +1,10 @@
 # Click Cove E-commerce Website
 
 Task: An e-commerce website that integrates end-to-end AI functionalities, including a user recommendation system and more. This project is built using React with Vite for the frontend and Tailwind CSS for styling. Google Firebase is used for backend services, including authentication.
-Models - by Kartikey
-Product Page - BowlPulp
-Landing Page - Jassi
-Login Firebase, Functionalities - Jatin
+- Models - by Kartikey
+- Product Page - BowlPulp
+- Landing Page - Jassi
+- Login Firebase, Functionalities - Jatin
 
 ## Features
 
