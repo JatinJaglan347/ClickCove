@@ -6,6 +6,8 @@ Task: An e-commerce website that integrates end-to-end AI functionalities, inclu
 - Landing Page - Jassi
 - Login Firebase, Functionalities - Jatin
 
+Note: Won Avinkya Project Capstone Display Competition by Coding Ninja, along with 30,000 INR.
+
 ## Features
 
 - **End-to-End AI Integration:** Incorporates a user recommendation system and other AI functionalities.
